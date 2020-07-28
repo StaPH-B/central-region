@@ -17,3 +17,13 @@ A warning may pop up like the one below, select `Connect Anyway`.
 A login prompt will appear, for `Group:` select `AnyConnect-UofMSplit` and log in using your UMN username and password.
 
 ![anyconnect3](/images/anyconnect3.png)
+
+If everything went smoothly you should see a globe icon with a padlock like the one below in your system tray.
+
+![anyconnect4](/images/anyconnect4.png)
+
+### To connect to your VM
+
+Click start and begin to type `Remote Desktop...` until `Remote Desktop Connection` appears in the start menu. Click on `Remote Desktop Connection` to open the Windows Remote Desktop Connection application.
+
+![rdp1](/images/rdp1.png)
