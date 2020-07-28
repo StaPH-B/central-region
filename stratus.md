@@ -4,6 +4,8 @@
 
 For security reasons, access to Stratus virtual machines is restricted to computers physically located on campus or connected to the campus network through a VPN.
 
+Once a connection has been made to the UMN VPN, Stratus VMs can be accessed through Windows 10's built-in Remote Desktop Connection application.
+
 ---
 
 ### To connect to the UMN VPN with Cisco AnyConnect
@@ -44,6 +46,6 @@ A new screen with a blue background and a login box will appear. The blue bar at
 
 ![rdp4](/images/rdp4.png)
 
-If the login was successful a dark blue desktop with the MDH logo will appear. Congratulations! You have successfully logged into your VM. 
+If the login was successful a dark blue desktop with the MDH logo will appear. **Congratulations!** You have successfully logged into your VM. 
 
 ![rdp5](/images/rdp5.png)
