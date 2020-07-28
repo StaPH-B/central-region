@@ -10,3 +10,10 @@ Start Cisco AnyConnect and enter `nct.vpn.umn.edu` as the connection address and
 
 ![anyconnect1](/images/anyconnect1.png)
 
+A warning may pop up like the one below, select `Connect Anyway`.
+
+![anyconnect2](/images/anyconnect2.png)
+
+A login prompt will appear, for `Group:` select `AnyConnect-UofMSplit` and log in using your UMN username and password.
+
+![anyconnect3](/images/anyconnect3.png)
