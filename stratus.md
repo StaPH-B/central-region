@@ -1,6 +1,6 @@
 # Connecting to stratus
 
-## Connecting to the UMN VPN
+## Connecting to the University of Minnesota (UMN) Virtual Private Network (VPN)
 
 For security reasons, access to Stratus virtual machines is restricted to computers physically located on campus or connected to the campus network through a VPN.
 
@@ -46,6 +46,6 @@ A new screen with a blue background and a login box will appear. The blue bar at
 
 ![rdp4](/images/rdp4.png)
 
-If the login was successful a dark blue desktop with the MDH logo will appear. **Congratulations!** You have successfully logged into your VM. 
+If the login was successful a dark blue desktop with the MDH logo will appear. **Congratulations!** You have successfully logged into your VM. Next up, try [uploading data to your VM with WinSCP](stratus_upload.html)
 
 ![rdp5](/images/rdp5.png)
