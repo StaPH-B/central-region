@@ -37,7 +37,8 @@ A password prompt will appear, enter your VM's stateuser password and click `OK`
 
 ![winscp6.png](/images/winscp6.png)
 
-You are now connected to your VM and looking at the WinSCP main interface. The left pane shows the files on your local computer and the right pane shows the files on your VM. To upload or download files simply drag and drop the files between these two panes. 
-Alternatively, you can drag and drop files to/from normal folder windows on your computer.
+You are now connected to your VM and looking at the WinSCP main interface. The left pane shows the files on your local computer and the right pane shows the files on your VM. 
+
+To upload or download files simply drag and drop the files between these two panes. Alternatively, you can drag and drop files to/from normal folder windows on your computer.
 
 ![winscp7.png](/images/winscp7.png)
