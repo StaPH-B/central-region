@@ -1,6 +1,6 @@
 # Uploading data to your VM with WinSCP
 
-[WinSCP](https://winscp.net/eng/index.php) is a windows applicaiton that provides an easy to to upload and download files from remote servers. 
+[WinSCP](https://winscp.net/eng/index.php) is a windows application that provides an user-friendly way to upload and download files from remote servers. 
 
 ## Connecting WinSCP to your VM
 
