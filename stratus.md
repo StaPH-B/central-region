@@ -1,6 +1,6 @@
 # Connecting to stratus
 
-## Connecting to the UMN VPN
+## Connecting to the University of Minnesota (UMN) Virtual Private Network (VPN)
 
 For security reasons, access to Stratus virtual machines is restricted to computers physically located on campus or connected to the campus network through a VPN.
 
