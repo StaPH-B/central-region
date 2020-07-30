@@ -46,6 +46,6 @@ A new screen with a blue background and a login box will appear. The blue bar at
 
 ![rdp4](/images/rdp4.png)
 
-If the login was successful a dark blue desktop with the MDH logo will appear. **Congratulations!** You have successfully logged into your VM. 
+If the login was successful a dark blue desktop with the MDH logo will appear. **Congratulations!** You have successfully logged into your VM. Next up, try [uploading data to your VM with WinSCP](stratus_upload.html)
 
 ![rdp5](/images/rdp5.png)
