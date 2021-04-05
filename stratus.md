@@ -10,8 +10,6 @@ Once a connection has been made to the UMN VPN, Stratus VMs can be accessed thro
 
 ### To connect to the UMN VPN with Cisco AnyConnect
 
-Cisco AnyConnect is the preferred method to connect to the UMN VPN, if AnyConnect is not available at your institution you can use the [instructions here to connect using the built-in Windows 10 VPN tool](https://it.umn.edu/services-technologies/how-tos/downloads-guides-connect-l2tp-native-vpn). Once you have connected using this alternative method, jump to the **To connect to your VM** section below.
-
 Start Cisco AnyConnect and enter `nct.vpn.umn.edu` as the connection address and click `Connect`.
 
 ![anyconnect1](/images/anyconnect1.png)
