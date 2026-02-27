@@ -21,7 +21,7 @@ Continue with Foundations II: Technical Introduction to Pathogen Genomic Epidemi
 ## 2. **AMD Central Region In-House Training 2026**
 #### March 24 & 25, 2026 - St. Paul, MN  - Minnesota Dept. of Health
 
-_Registration Deadline February 24th , 2026_
+_Registration Deadline February 24th, 2026_
 
 ## [**CLICK HERE**](https://forms.office.com/g/htjZ6kBWYR) to register TODAY! 
 
