@@ -6,13 +6,7 @@ tags: [training opportunities,]
 author: Jessica Jencks
 ---
 
-
-## 1. **Join the mtn_code_club!**
-
-![Training Information](/assets/img/mtn-code-club-training-information.jpg)
-
-
-## 2. **Pathogen Genomics for Public Health** (Foundations I & II)
+## **Pathogen Genomics for Public Health** (Foundations I & II) ##
 
 We are excited to announce the launch of Pathogen Genomics for Public Health: Foundations I & II, two free, self-paced courses available _anytime_ starting on January 21, 2026. 
  
@@ -24,8 +18,8 @@ Continue with Foundations II: Technical Introduction to Pathogen Genomic Epidemi
 
 [**Register Now!**](https://learn.hms.harvard.edu/pathogen-genomics-public-health)
 
-## 3. **AMD Central Region In-House Training 2026**
-#### March 24 & 25, 2026 - St. Paul, MN  - Minnesota Dept. of Health
+## **AMD Central Region In-House Training 2026**
+## March 24 & 25, 2026 - St. Paul, MN  - Minnesota Dept. of Health
 
 _Registration Closed February 24th, 2026_
 
