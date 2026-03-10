@@ -7,9 +7,9 @@ author: Jessica Jencks
 ---
 
 
-## 1. ** Join the mtn_code_club!
+## 1. **Join the mtn_code_club!**
 
-![Training Information](/images/mtn-code-club-training-information.jpg)
+![Training Information](/assets/img/mtn-code-club-training-information.jpg)
 
 
 ## 2. **Pathogen Genomics for Public Health** (Foundations I & II)
