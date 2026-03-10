@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genomic Epidemiology Office Hours Recordings
-full-width: true
+full-width: false
 subtitle: 
 ---
 
