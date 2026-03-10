@@ -6,7 +6,13 @@ tags: [training opportunities,]
 author: Jessica Jencks
 ---
 
-## 1. **Pathogen Genomics for Public Health** (Foundations I & II)
+
+## 1. ** Join the mtn_code_club!
+
+![Training Information](/images/mtn-code-club-training-information.jpg)
+
+
+## 2. **Pathogen Genomics for Public Health** (Foundations I & II)
 
 We are excited to announce the launch of Pathogen Genomics for Public Health: Foundations I & II, two free, self-paced courses available _anytime_ starting on January 21, 2026. 
  
@@ -18,12 +24,11 @@ Continue with Foundations II: Technical Introduction to Pathogen Genomic Epidemi
 
 [**Register Now!**](https://learn.hms.harvard.edu/pathogen-genomics-public-health)
 
-## 2. **AMD Central Region In-House Training 2026**
+## 3. **AMD Central Region In-House Training 2026**
 #### March 24 & 25, 2026 - St. Paul, MN  - Minnesota Dept. of Health
 
-_Registration Deadline February 24th, 2026_
+_Registration Closed February 24th, 2026_
 
-## [**CLICK HERE**](https://forms.office.com/g/htjZ6kBWYR) to register TODAY! 
 
 This training event will bring together laboratorians and public health professionals from the 9 states in the AMD Central Region for training in next generation sequencing, bioinformatics, and genomic epidemiology.
 The training will consist of breakout “tracks” (methods-focused trainings for wet-lab, bioinformatics, and genomic epidemiology) and joint sessions to encourage effective collaboration. This format ensures that participants will receive practical trainings in techniques relevant to their daily work in AMD, as well as the professional skills that are crucial to the success of this multidisciplinary field.
