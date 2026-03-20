@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AMD Training Materials
-full-width: true
+full-width: false
 subtitle:
 ---
 
