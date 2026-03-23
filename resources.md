@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resource Library
-full-width: true
+full-width: false
 #subtitle: The AMD Central Region Support Team
 ---
 
