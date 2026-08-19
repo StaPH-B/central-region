@@ -19,4 +19,4 @@ Looking forward to another year of learning and collaboration with all of you!
 Your 2026-27 Central Region AMD Training Leads
 Chris Carter, Dan Evans, Jake Garfin, and Jessica Jencks
 ---
-![AMD_leads_photo](/assets/img/AMD_leads_photo.jpg)
+![AMD_leads_photo](https://staph-b.github.io/central-region/assets/img/AMD_leads_photo.jpg)
