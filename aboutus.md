@@ -14,6 +14,6 @@ The Central Region AMD Training Leads function as a cohesive team to develop the
 
 [Chris Carter](mailto:christopher.carter@kansas.gov) (Kansas) & [Dan Evans](mailto:dan.r.evans@state.mn.us) (Minnesota)- The Central Region's Genomic Epidemiology Training Co-Leads (**GETLs**) (A new training lead position - currently in their Pilot Year) Are the workforce development SMEs specializing in Genomic Epidemiology for their defined region, and with a specific focus on Genomic Epidemiology, they develop, implement, and facilitate regional AMD trainings sessions and peer-to-peer trainings. 
 
-![AMD_leads_photo](assets\img\AMD_leads_photo.jpg)
+![AMD_leads_photo](..\assets\img\AMD_leads_photo.jpg)
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appHYNE1RkVcfIotc/pagSBqdipTTT6JP2D/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
