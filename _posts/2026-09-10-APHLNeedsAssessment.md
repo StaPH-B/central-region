@@ -14,7 +14,7 @@ Additionally, please keep an eye out for an email with available dates for our A
 
 ## * * Please complete your survey by October 1, 2026.* * 
 
-Visit https://www.surveymonkey.com/r/9CPVVZZ to take this year’s survey!
+Visit (https://www.surveymonkey.com/r/9CPVVZZ) to take this year’s survey!
 
 Let us know if you have any questions!! 
 
