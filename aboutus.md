@@ -12,7 +12,7 @@ The Central Region AMD Training Leads function as a cohesive team to develop the
 
 [Jessica Jencks](mailto:jessica.jencks@state.mn.us) - Minnesota's AMD Training Lead (**BTL**) provides support to labs in the Central region on pathogen-specific training and cross-cutting AMD training to help staff develop the critical skills necessary to extract, analyze, and interpret sequencing data. 
 
-[Chris Carter](mailto:christopher.carter@kansas.gov) (Kansas) & [Dan Evans](mailto:dan.r.evans@state.mn.us) (Minnesota)- The Central Region's Genomic Epidemiology Training Co-Leads (**GETLs**) (A new training lead position - currently in their Pilot Year) Are the workforce development SMEs specializing in Genomic Epidemiology for their defined region, and with a specific focus on Genomic Epidemiology, they develop, implement, and facilitate regional AMD trainings sessions and peer-to-peer trainings. 
+[Chris Carter](mailto:christopher.carter@kansas.gov) (Kansas) & [Dan Evans](mailto:dan.r.evans@state.mn.us) (Minnesota)- The Central Region's Genomic Epidemiology Training Co-Leads (**GETLs**) Are the workforce development SMEs specializing in Genomic Epidemiology for their defined region, and with a specific focus on Genomic Epidemiology, they develop, implement, and facilitate regional AMD trainings sessions and peer-to-peer trainings. 
 
 ![AMD_leads_photo](..\assets\img\AMD_leads_photo.jpg)
 

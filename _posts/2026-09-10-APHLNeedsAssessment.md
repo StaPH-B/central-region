@@ -20,6 +20,6 @@ Let us know if you have any questions!!
 
 Thanks!
 
-- Your Central Region Training Leads,
+Your Central Region Training Leads,
 
-### - Christopher Carter, Dan Evans, Jake Garfin, and Jessica Jencks
+Christopher Carter, Dan Evans, Jake Garfin, and Jessica Jencks 😎
